@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🔭 I’m currently working with Java, OSGi, Spring Boot, NodeJs, MongoDB, Docker and K8s.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adautomendes&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adautomendes&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **adautomendes/adautomendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
