@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working with Java, OSGi, Spring Boot, NodeJs, MongoDB, Docker and K8s.
+🔭 I’m currently working with Java, OSGi, Spring Boot, NodeJs, MongoDB, Docker and K8s. Additionaly, I'm working with System's Architecture, Quality Assurance, Product Quality and Software Testing.
+🌱 I’m currently learning Python and Flask.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adautomendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)](https://github.com/adautomendes)
 
