@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working with Java, Spring Boot, NodeJs, MongoDB, Docker, K8s and Helm. Additionaly, I'm working with System's Architecture, Quality Assurance, Product Quality and Software Testing.  
-🌱 I’m currently learning Python and Flask.
+🔭 I’m currently working with Java, Spring Boot, NodeJs, EDB, Oracle, Docker, K8s, Helm, Jenkins and Spinnaker. Additionaly, I'm working with System's Architecture, Quality Assurance, Product Quality, Software Testing and Devops.  
+🌱 I’m currently learning Typescript and Groovy.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adautomendes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br)](https://github.com/adautomendes)
 
