@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Java, Spring Boot, NodeJs, Groovy, EDB, Oracle, Docker, K8s, Helm, Jenkins and Spinnaker. Additionaly, I'm working with System's Architecture, Quality Assurance, Product Quality, Software Testing and Devops.<br>🌱 I’m currently learning Typescript and Terraform.
+🔭 I’m currently working with Java, Spring Boot, NodeJs, Groovy, EDB, Oracle, Docker, K8s, Helm, Jenkins and Spinnaker. Additionaly, I'm working with System's Architecture, Quality Assurance, Product Quality, Software Testing and Devops.<br>🌱 I’m currently learning MCP and Terraform.
 
 
 ## 🌐 Socials:
